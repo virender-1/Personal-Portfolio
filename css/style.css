@@ -1,0 +1,36 @@
+body {
+    background-color: #F8FAFC;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 80px;
+}
+
+main img {
+    width: 150px;
+    height: 200px;
+}
+
+nav a {
+    background-color:rgb(167, 144, 89);
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.btn {
+    padding: 10px;
+    background-color: #08b530;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #248d3c;
+}

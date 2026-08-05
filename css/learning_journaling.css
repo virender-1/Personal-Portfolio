@@ -1,0 +1,22 @@
+body {
+    background-color: #F8FAFC;
+    margin: 30px;
+    border: 1px solid lightblue;
+    padding: 15px;
+}
+
+section {
+    border: 1px solid lightblue;
+    margin: 25px;
+    padding: 25px;
+}
+
+header {
+    margin: 25px;
+    padding: 25px;
+}
+
+footer {
+    margin: 25px;
+    padding: 25px;
+}

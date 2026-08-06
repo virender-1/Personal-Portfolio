@@ -11,6 +11,12 @@ section {
     padding: 25px;
 }
 
+table, th, td {
+    border: 1px solid lightblue;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
 header {
     margin: 25px;
     padding: 25px;
